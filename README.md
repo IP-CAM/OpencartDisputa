@@ -1,5 +1,4 @@
-# OpencartDisputa
-Feature criada em cima do template Journal 2 do Opencart para ter um mecanismo de cobertura de preço.
+Feature created on top of the Opencart Journal 2 template to have a price coverage mechanism.
 
-ATENÇÃO : Pelo tempo que havia para desenvolver não forma seguidos todos os padrões de desenvolvimento
-sugeridos. Portanto não me resposabilizo por eventuais falhas ou bugs em sua loja.
+ATTENTION: Due to the time to develop, all the suggested development patterns were not followed. 
+So I am not responsible for any flaws or bugs in your store. 
